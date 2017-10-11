@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">The Roster</string>
+
+    <string-array name="color_arrays">
+        <item>Black</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Grey</item>
+    </string-array>
+
+</resources>
